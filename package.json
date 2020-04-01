@@ -1,7 +1,7 @@
 {
   "name": "bitcore-message-vcoin",
   "version": "1.0.3",
-  "description": "ZelCash Messages for Bitcore",
+  "description": "Vcoin Messages for Bitcore",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -19,13 +19,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vcoin/bitcore-message-vcoin.git"
+    "url": "https://github.com/lubhub612/bitcore-message-vcoin.git"
   },
   "dependencies": {
-    "bitcore-lib-vcoin": "git://github.com/vcoin/bitcore-lib-vcoin#master"
+    "bitcore-lib-vcoin": "git://github.com/lubhub612/bitcore-lib-vcoin#master"
   },
   "devDependencies": {
-    "bitcore-build-vcoin": "git://github.com/vcoin/bitcore-build-vcoin#master",
+    "bitcore-build-vcoin": "git://github.com/lubhub612/bitcore-build-vcoin#master",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"

@@ -1,4 +1,4 @@
-# ZelCash Message Verification and Signing for Bitcore
+# VCOIN Message Verification and Signing for Bitcore
 
 
 bitcore-message-hush adds support for verifying and signing hush messages in [Node.js](http://nodejs.org/) and web browsers.
@@ -8,7 +8,7 @@ See [the main bitcore repo](https://github.com/bitpay/bitcore) for more informat
 ## Getting Started
 
 ```sh
-git clone https://github.com/vcoin/bitcore-message-vcoin.git
+git clone https://github.com/lubhub612/bitcore-message-vcoin.git
 cd bitcore-message-vcoin
 npm install --save
 ```
